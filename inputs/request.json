@@ -1,0 +1,19 @@
+{
+  "units": [
+    "east",
+    "west"
+  ],
+  "industries": [
+    "medical",
+    "robot",
+    "shared"
+  ],
+  "cycle_seconds": 60,
+  "saved_selection": [
+    {
+      "unit": "east",
+      "id": "0",
+      "observed_revision": 1
+    }
+  ]
+}
