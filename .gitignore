@@ -14,3 +14,10 @@ __pycache__/
 # 本地演练来源状态
 source-state.json
 *.state.json
+
+# 本地采集持久数据（来源原文库、归并身份、名单快照）
+collector-data/
+data/
+*.db
+*.db-wal
+*.db-shm
